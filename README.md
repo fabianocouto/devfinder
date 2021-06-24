@@ -12,6 +12,6 @@ Application developed for study purposes. It is a search engine for developers b
 
 # Frontend
 
-https://github.fabianocouto.com.br/devfinder/frontend/build/
+https://fabianocouto.github.io/devfinder/frontend/build/
 
 ![Screenshot](frontend/screenshot.png)
